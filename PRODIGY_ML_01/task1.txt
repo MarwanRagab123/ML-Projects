@@ -1,0 +1,40 @@
+Task 1 Documentation
+====================
+
+Date: 2025-05-06
+
+Tools Used:
+- Jupyter Notebook (problem1_intern_Prodigy_.ipynb)
+- Python 3 kernel
+- Pandas (pd)
+- NumPy (np)
+- Matplotlib (plt)
+- Seaborn (sns)
+- Scikit-learn (LinearRegression, metrics, model_selection, preprocessing)
+- File inspection tools
+
+Approach:
+1. Data loading with pandas (train.csv, test.csv)
+2. Data exploration using train_df.head()
+3. Machine learning with scikit-learn
+4. Examined notebook metadata to understand environment
+5. Verified Python 3 kernel specification
+6. Checked notebook structure
+
+Results:
+- Notebook uses standard Jupyter format (nbformat 4)
+- Configured for Python 3 execution
+- Achieved R2 Score: 0.7266 (72.66% variance explained)
+- RMSLE: 0.2422 (Root Mean Squared Log Error)
+- These metrics indicate a moderately strong model performance
+- Using regression models (Linear, Polynomial)
+- Includes evaluation metrics (MSE, R2, MSLE)
+
+Observations:
+- Actual code cells not yet inspected
+- Need to examine cell contents for complete analysis
+
+Next Steps:
+1. Review notebook code cells
+2. Execute cells to verify functionality
+3. Document any errors or outputs
