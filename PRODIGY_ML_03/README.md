@@ -67,9 +67,3 @@ jupyter notebook cat-or-dog-using-svm.ipynb
 3. Real-time classification
 4. Web application interface
 5. Model deployment optimization
-
-## Author
-[Your Name]
-
-## License
-This project is licensed under the MIT License - see the LICENSE file for details. 
